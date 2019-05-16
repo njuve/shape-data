@@ -1,6 +1,6 @@
 # README
 ## Usage
-This program take a csv file like `sample.csv` as a input.
+This program takes a csv file like `sample.csv` as a input.
 That is like:
 
 |id|...|step|
